@@ -21,8 +21,7 @@ A Python-based AI agent that combines YOLOv8 and Qwen2-VL to detect goods in ima
 - Output: Bounding box + description (e.g., "This is a metal wrench used for tightening screws.")
 - Result saved as `result.png`.
 
-### Dependencies
-- torch, ultralytics, transformers, qwen-vl-utils, pillow, opencv-python, matplotlib
+
 
 ## 物體識別與描述 AI Agent
 
@@ -47,6 +46,5 @@ A Python-based AI agent that combines YOLOv8 and Qwen2-VL to detect goods in ima
 - 輸出：檢測框 + 描述（如「這是一個金屬扳手，用於擰緊螺絲。」）
 - 結果保存為 `result.png`。
 
-### 依賴
-- torch, ultralytics, transformers, qwen-vl-utils, pillow, opencv-python, matplotlib
+
 
